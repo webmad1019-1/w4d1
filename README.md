@@ -15,7 +15,7 @@
 # Goals
 
 - Focus on ES6/7. Consolidation
-- Understand the backend area where we are entering
+- Understand the back end area where we are entering
 
 # Bonus
 
