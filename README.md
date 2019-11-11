@@ -12,6 +12,11 @@
 - More on koans - this time very focused on scopes
 - Unit testing, this time under node with mocha
 
+# Tomorrow - day w4d2
+
+- Connecting to a database server from node - MongoDB
+- Using a web server on top of node (Express)
+
 # Goals
 
 - Focus on ES6/7. Consolidation
