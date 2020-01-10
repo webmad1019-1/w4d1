@@ -3,7 +3,7 @@
 # Today - day w4d1
 
 - Retrospective about module I
-- ES6 refresh
+- ES6/7 refresh
 - Node basics
 - A bit of talk about client - server communication
 
